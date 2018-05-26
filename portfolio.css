@@ -58,10 +58,3 @@ span {
     color: brown;
     font-size: 25px;
 }
-
-footer {
-    text-align: center;
-    color: red;
-    margin-bottom: 0px;
-    position: sticky;
-}
