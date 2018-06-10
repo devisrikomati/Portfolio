@@ -44,3 +44,13 @@ span {
     color: brown;
     font-size: 25px;
 }
+
+.footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #a7ebf7;
+    text-align: center;
+  }
